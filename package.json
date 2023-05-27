@@ -1,6 +1,7 @@
 {
 	"author": "Aayush Rawat",
 	"name": "fcc-learn-npm-package-json",
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.18.2"
 	},
