@@ -1,5 +1,6 @@
 {
 	"author": "Aayush Rawat",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does nothing lol",
 	"keywords": [ "learn", "earn", "freecodecamp" ],
